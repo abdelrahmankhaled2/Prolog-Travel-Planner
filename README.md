@@ -19,7 +19,7 @@ This Prolog program models a travel planner for various places in Egypt, allowin
 - Sohag
 - Banha
 - Elzagazig
-- Shebe Elkom
+- Sheben Elkom
 
 ## Transportation Modes
 
